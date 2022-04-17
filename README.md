@@ -1,1 +1,1 @@
-<img url="pymiiam.png"></img>
+<img src="pymiiam.png">
